@@ -406,7 +406,7 @@ footer {
 button, .btn {
     display: inline-block;
     background: #ff7e5f;
-    color: white;
+    color: black;
     padding: 15px 30px;
     border: none;
     border-radius: 25px;
